@@ -2,6 +2,8 @@
 
 ## Disclaimer
 
+For more detailed legal information, please refer to the [DISCLAIMER.md](DISCLAIMER.md)
+
 **Basic-C2** is provided for **educational purposes only**. The tool is designed to demonstrate concepts related to cybersecurity, ethical hacking, and red teaming in a controlled and legal environment.
 
 ### Important Notes:
